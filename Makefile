@@ -1,0 +1,5 @@
+PKG_NAME := mvn-easymock
+URL = https://github.com/easymock/easymock/archive/easymock-2.5.tar.gz
+ARCHIVES = https://repo1.maven.org/maven2/org/easymock/easymock/2.4/easymock-2.4.pom : https://repo1.maven.org/maven2/org/easymock/easymock/2.4/easymock-2.4.jar : https://repo1.maven.org/maven2/org/easymock/easymock/2.5.2/easymock-2.5.2.jar : https://repo1.maven.org/maven2/org/easymock/easymock/2.5.2/easymock-2.5.2.pom :
+
+include ../common/Makefile.common
