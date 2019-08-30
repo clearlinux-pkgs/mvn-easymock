@@ -4,7 +4,7 @@
 #
 Name     : mvn-easymock
 Version  : 2.5
-Release  : 2
+Release  : 3
 URL      : https://github.com/easymock/easymock/archive/easymock-2.5.tar.gz
 Source0  : https://github.com/easymock/easymock/archive/easymock-2.5.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/easymock/easymock-parent/3.3.1/easymock-parent-3.3.1.pom
